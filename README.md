@@ -1,5 +1,7 @@
 # sts-faker-mcp
 
+[![smithery badge](https://smithery.ai/badge/@data-mindset/sts-faker-mcp)](https://smithery.ai/server/@data-mindset/sts-faker-mcp)
+
 MCP server providing 230 Faker.js data generation tools for Smithery AI.
 
 ## Overview
